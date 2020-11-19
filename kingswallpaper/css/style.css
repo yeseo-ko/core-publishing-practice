@@ -20,6 +20,7 @@ body{
     border-right: #000000 6px solid;
     flex: 1;
     overflow: hidden;
+    box-sizing: border-box;
 }
 
 .gallery li:nth-child(1){
