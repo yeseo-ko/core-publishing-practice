@@ -40,7 +40,15 @@ img{
     padding-top: 70px;
     opacity: 0;
     transition: 1.5s;
+    padding: 13px;
+
 }
+/* .text p{
+    text-overflow: ellipsis;
+    white-space:nowrap;
+    overflow: hidden;
+    margin: 15px;
+} */
 .item:hover .text{
     opacity: 1;
 }
